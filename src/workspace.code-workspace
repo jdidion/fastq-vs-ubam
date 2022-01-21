@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../IndexTools"
+		},
+		{
+			"path": "../../ngsindex"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "~/.pyenv/versions/fqbam/bin/python",
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
